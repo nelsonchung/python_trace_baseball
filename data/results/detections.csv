@@ -1,0 +1,11 @@
+image,backend,class_name,confidence,x1,y1,x2,y2,center_x,center_y
+frame_01.png,opencv,baseball,0.8449,693,221,739,267,716,244
+frame_02.png,opencv,baseball,0.8156,692,251,725,284,708,267
+frame_03.png,opencv,baseball,0.8166,681,279,718,316,699,297
+frame_04.png,opencv,baseball,0.8271,669,310,708,349,688,329
+frame_05.png,opencv,baseball,0.8433,654,342,697,385,675,363
+frame_06.png,opencv,baseball,0.8586,635,376,682,423,658,399
+frame_07.png,opencv,baseball,0.8726,614,411,665,462,639,436
+frame_08.png,opencv,baseball,0.8813,591,448,644,501,617,474
+frame_09.png,opencv,baseball,0.8928,566,486,623,543,594,514
+frame_10.png,opencv,baseball,0.9035,539,524,600,585,569,554

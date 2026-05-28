@@ -1,0 +1,5 @@
+path: /Users/nelsonchung/development/python_trace_baseball/data
+train: samples
+val: samples
+names:
+  0: baseball
